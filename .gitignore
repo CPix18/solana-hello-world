@@ -1,0 +1,12 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+
+target/            # Compiled binaries and intermediate files
+.mpl               # Anchor program logs
+test-ledger/       # Local test ledger files
+
